@@ -1,0 +1,3 @@
+1.sudo apt-get install g++
+2.sudo apt-get install libgl1-mesa-dev libglu1-mesa-dev
+3.sudo ufw allow 192.168.1.3 to any port 2021

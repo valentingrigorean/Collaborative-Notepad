@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/ICONS">
+        <file>resources/connect</file>
+        <file>resources/copy</file>
+        <file>resources/cut</file>
+        <file>resources/dir</file>
+        <file>resources/disconnect</file>
+        <file>resources/download</file>
+        <file>resources/exit</file>
+        <file>resources/paste</file>
+        <file>resources/redo</file>
+        <file>resources/saveall</file>
+        <file>resources/textEditor</file>
+        <file>resources/undo</file>
+        <file>resources/file</file>
+        <file>resources/search.png</file>
+        <file>resources/c.png</file>
+        <file>resources/replace.png</file>
+        <file>resources/mark.png</file>
+    </qresource>
+</RCC>
