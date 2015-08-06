@@ -12,7 +12,7 @@
 #include <time.h>
 #include <dirent.h>
 #include <pthread.h>
-#include "/home/valentin/Dropbox/Facult/An2/Retele/proiect/struct_data.h"
+#include "../common/struct_data.h"
 
 #define PORT 2021
 
